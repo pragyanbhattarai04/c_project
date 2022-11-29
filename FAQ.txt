@@ -1,0 +1,29 @@
+
+
+Here are some of the Frequently Asked Questions by our reviewers. We have tried to explain all of those thoroughly.
+
+1) What is the benefit of playing the Quiz Program?
+-> The Quiz Program is designed not just to have fun also have some extra fruitful information for your academics and extra knowlegde.
+
+2) What is the Score count system in this program?
+-> Score count system has a little twist in our program. 10 points are added for each correct answers, but on the other hand, 5 points are deduced for every wrong one. This helps the user to be more focused and dedicated while playing the game.
+
+3) Why don't we get the correct answers after a question is incorrectly answered?
+-> You do get the correct answers in the program. But we don't reveal those right after the questions. You will have to go to the 'Preparation' Section of the program, where you will get plenty of ideas and informations in each category.
+
+4) How can I view who has the highest score recorded?
+-> It's pretty simple. You just need to go to the Home page and press the key 'L' to view the leaderboard. The Leaderboard can store the data of 100 players.
+
+5) What is accuracy after the final score?
+-> Scores are counted on the basis of correct answers and incorrect answers provided by the user during the Quiz. Meanwhile, Accuracy is the measure of correct answers only. Simply, the ratio of correct answers given by player to the number of questions being asked in a set, multiplied by 100% gives the Accuracy.
+
+6) Why I get some questions repeated everytime I play?
+-> The program currently consists of exactly 120 questions (30 for each category). Among those 30 questions, 10 questions are randomly picked to make a set of question. This creates a possibility of forming 4*30045015 different sets of questions which we feel is more entertaining than playing a monotonous 3 set of questions for each category.
+
+7) Why Preparation?
+-> The Preparation section has been added in our our program to compensate the absence of correct answer after each question being asked. The Preparation section not just consists of the solutions but also many other useful informations that can sharpen the knowledge of the player.
+
+8) What is the reality of the Facts and Figures?
+-> The Facts and Figures we provide are cent percent real. We have chosen renowned sources for the questions, and also checked and rechecked the reliaility of the program.
+
+ 
